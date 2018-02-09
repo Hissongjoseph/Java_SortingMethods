@@ -23,6 +23,7 @@ bubble sort method. Numbers less than 0 & Numbers greater than 1,000 will be sen
 text file named InvalidData where a message will inform the user.
 
 input:Numbers from text file
+
 Output: Invalid data (Numbers > 1000 & Numbers < 1) will be sent to InvalidData.txt
 
 ************************************************************************************************
@@ -44,4 +45,5 @@ sort. Any numbers under zero and above one thousand will be send to a external
 text file named InvalidData and will be prompted with an appropriate message.
 
 input:Numbers from text file
+
 Output: Invalid data (Numbers > 1000 & Numbers < 1) will be sent to InvalidData.txt
