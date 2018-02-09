@@ -7,10 +7,15 @@ Selection Sort Algorithm.
 These programs where written in Java using Netbeans.
 
 Program title: Bubble Sort Algorithm
+
 Programmer: Joseph Hissong
+
 Course: CSCI 192
+
 Semester: Fall 2015
+
 Instructor: Samimi
+
 Due Date: December 4, 2015
 
 Description: This program takes numbers from an external text document and sorts using a
@@ -23,10 +28,15 @@ Output: Invalid data (Numbers > 1000 & Numbers < 1) will be sent to InvalidData.
 ************************************************************************************************
 
 Program title: Selection Sort Algorithm
+
 Programmer: Joseph Hissong
+
 Course: CSCI 192
+
 Semester: Fall 2015
+
 Instructor: Samimi
+
 Due Date: December 4, 2015
 
 Description: This program takes inputted numbers and sorts using selection
